@@ -38,7 +38,14 @@
         "First Name": "Stijn",
         "Last Name": "Timbermont",
         "Date of birth": "1979-08-09T22:00:00.000Z",
-        "email": "stijn@timbermont.be"
+        "email": "stijn@timbermont.be",
+        "Address": {
+            "googleplace": "Chaussée de Waterloo 180, Saint-Gilles, Belgium",
+            "number": "180",
+            "street": "Chaussée de Waterloo",
+            "city": "Saint-Gilles",
+            "postalCode": "1060"
+        }
     },
     "Professional Experience": {
         "0": []
