@@ -1,1 +1,52 @@
-{}
+{
+    "Personalia": {
+        "Contract information": {
+            "Comments": "Stijn is an <b><i>excellent</i></b> developer."
+        },
+        "Profile for which employee is entered": {
+            "0": {
+                "selectedChoices": {
+                    "Project manager (PM)": true,
+                    "Senior Analyst-Programmer (SAP)": true,
+                    "Analyst-Programmer (AP)": true
+                }
+            }
+        },
+        "Highest relevant educational qualification": {
+            "0": {
+                "selectedChoice": "Master degree or equivalent (>=4 years)"
+            }
+        },
+        "Languages": {
+            "English": {
+                "Spoken": 5,
+                "Written": 1
+            },
+            "French": {},
+            "German": {},
+            "Other(s)": {
+                "0": [
+                    {
+                        "Language": "Spanish",
+                        "Spoken": 3,
+                        "Written": 3
+                    }
+                ]
+            }
+        },
+        "Professional experience": {},
+        "First Name": "Stijn",
+        "Last Name": "Timbermont",
+        "Date of birth": "1979-08-09T22:00:00.000Z",
+        "email": "stijn@timbermont.be"
+    },
+    "Professional Experience": {
+        "0": []
+    },
+    "Software Expertise": {
+        "0": []
+    },
+    "Training Page": {
+        "0": []
+    }
+}
