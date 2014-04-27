@@ -1,7 +1,8 @@
 {
     "Personalia": {
         "Contract information": {
-            "Comments": "Stijn is an <b><i>excellent</i></b> developer."
+            "Comments": "Stijn is an <b><i>excellent</i></b> developer.",
+            "Date of recruitment": "2014-03-31T22:00:00.000Z"
         },
         "Profile for which employee is entered": {
             "0": {
@@ -45,7 +46,8 @@
             "street": "Chaussée de Waterloo",
             "city": "Saint-Gilles",
             "postalCode": "1060"
-        }
+        },
+        "Current function": "Developer"
     },
     "Professional Experience": {
         "0": []
